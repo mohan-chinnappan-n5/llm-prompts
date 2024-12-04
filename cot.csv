@@ -1,0 +1,20 @@
+type,prompt
+cot,"We have a peach tree for 10 years, it gives 299 peaches per year on average, how many peaches we got so far"
+cot,"Customer Jane has filed 200 support cases. Out of those 200 cases, 30 cases  are Priority 1.
+company policy is reach out any customer who has equal or greater than 15 percent Priority 1 cases as soon as possible.
+Do we have to reach out the Jane?"
+cot,"Customer Jane has filed 200 support cases. Out of those 200 cases, 30 cases are Priority 1. Company policy is to reach out to any customer who has equal or greater than 15 percent Priority 1 cases. Do we have to reach out to Jane?"
+cot,"A customer spends $500 monthly on a subscription service. If they pay for 12 months upfront, they get a 20% discount. How much would the customer save by paying upfront?"
+cot,"A runner completes 5 kilometers in 25 minutes. If they maintain the same pace, how long will it take to complete a half marathon (21.1 kilometers)?"
+cot,"A store sells apples at $3 per kilogram. If a customer buys 4 kilograms, and there's a 'buy 3 kilograms, get 1 kilogram free' offer, how much does the customer pay?"
+cot,A car travels 60 kilometers per hour. How long will it take to cover a distance of 240 kilometers?
+cot,An employee works 8 hours a day and earns $15 per hour. How much does the employee earn in a week if they work 5 days?
+cot,A rectangular garden is 10 meters long and 6 meters wide. What is the area and perimeter of the garden?
+cot,"A student scores 85, 90, and 80 in three exams. What is the student's average score?"
+cot,A company manufactures 50 products per day. How many products will they manufacture in a month of 30 days?
+cot,"A water tank has a capacity of 500 liters. If it is filled at a rate of 20 liters per minute, how long will it take to fill the tank?"
+cot,"A person buys 3 items costing $12, $15, and $20. If there is a 10% discount on the total bill, how much does the person pay?"
+cot,A person borrows $1000 at an annual interest rate of 5%. How much interest will they pay in 2 years?
+cot,"A classroom has 25 students. If 12 of them are boys, what percentage of the class are boys?"
+cot,A phone is sold for $300 after a 25% discount. What was the original price of the phone?
+cot,A train travels 80 kilometers in 2 hours. What is its average speed in kilometers per hour?
