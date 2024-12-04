@@ -1,4 +1,4 @@
-graph TD
+graph LR 
     Start[Start: Planning a weekend trip] -->|Select Option| Beach[Beach]
     Start -->|Select Option| Mountains[Mountains]
     Start -->|Select Option| StayHome[Stay at Home]
